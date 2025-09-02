@@ -16,7 +16,11 @@ This collection serves as a comprehensive portfolio, demonstrating proficiency i
 
 ## Projects
 
-...
+1. [**Retail Price Optimization - Regression**](1.%20Retail%20Price%20Optimization%20-%20Regression/)
+    * **Description:** Optimize retail pricing strategies using regression techniques.
+    * **Topics:** Regression, Data Preprocessing, Feature Engineering
+    * **App Link:** [Retail Price Optimization](https://huggingface.co/spaces/etuncer/retail-price-optimization-regression)
+
 
 ---
 
