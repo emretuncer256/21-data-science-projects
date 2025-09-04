@@ -1,27 +1,64 @@
-# 21 Data Science Projects
+## 21 Data Science Projects
 
-This repository showcases a collection of 21 diverse data science projects, covering various essential domains within the field. Each project is designed to enhance practical skills and deepen understanding of key concepts and methodologies in data science.
+A curated collection of end‑to‑end data science projects spanning regression, classification, clustering, NLP, computer vision, recommendations, time series, visualization, and deep learning. Each project is self‑contained with code, analysis, and (when applicable) an interactive Streamlit app.
 
-The projects are categorized by topic, allowing for focused exploration of specific areas such as regression, classification, clustering, computer vision, natural language processing (NLP), recommendation systems, time series analysis, data visualization, and deep learning.
+### What you’ll find in each project
+-   **Problem overview** and clear objectives
+-   **Notebook(s)** with data preparation, modeling, and evaluation
+-   **Reusable code** (pipelines, utilities, saved artefacts when useful)
+-   **Interactive demo** via Streamlit and/or **Hugging Face Space** (when available)
 
-For each project, you will find:
--   **Project Description:** A brief overview of the problem and objectives.
--   **Code Implementation:** Python code demonstrating the solution.
--   **Results & Analysis:** Insights derived from the project's outcome.
--   **Model Artefacts:** (Where applicable) Saved trained models.
--   **Streamlit App:** (Where applicable) A web application for interactive demonstration.
--   **Hugging Face Space:** (Where applicable) Online deployment of the Streamlit app.
+### Getting started (Poetry)
+1. Install Poetry (if not installed)
+   - `curl -sSL https://install.python-poetry.org | python3 -`
+   - Ensure Poetry is on your PATH (restart shell or follow installer notes)
+2. Clone the repository
+   - `git clone https://github.com/etuncer/21-data-science-projects.git`
+   - `cd 21-data-science-projects`
+3. Install shared dependencies at the repository root
+   - `poetry install`
+   - Optional: `poetry shell` to enter the virtual environment
 
-This collection serves as a comprehensive portfolio, demonstrating proficiency in a wide range of data science techniques and tools.
+### How to run
+-   **Notebooks**: open the `.ipynb` files directly, or launch Jupyter with Poetry from the repo root (works in subfolders too)
+    - `poetry run jupyter lab`
+    - Optional kernel: `poetry run python -m ipykernel install --user --name ds-projects`
+-   **Streamlit apps**: from the specific project folder run `poetry run streamlit run app.py`
+-   **Model artefacts**: some projects include serialized models (e.g., `*.pkl`) for quick reuse
 
-## Projects
+### Conventions
+-   Small example data or dataset links are referenced inside each project
+-   Random seeds are used where appropriate for reproducibility
+-   Clear naming for features, targets, and pipeline steps
 
-1. [**Retail Price Optimization - Regression**](1.%20Retail%20Price%20Optimization%20-%20Regression/)
-    * **Description:** Optimize retail pricing strategies using regression techniques.
-    * **Topics:** Regression, Data Preprocessing, Feature Engineering
-    * **App Link:** [Retail Price Optimization](https://huggingface.co/spaces/etuncer/retail-price-optimization-regression)
+### Tech stack
+-   Python, pandas, NumPy, scikit‑learn
+-   Visualization: Matplotlib, Seaborn, Plotly
+-   Apps: Streamlit, Hugging Face Spaces
+-   Packaging/utility: joblib, Poetry
 
+### Current projects
+
+<div align="center">
+  <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+    <div style="width:340px; border:1px solid rgba(255,255,255,0.25); border-radius:16px; padding:16px; background:linear-gradient(135deg,#1f6feb 0%,#a371f7 50%,#f778ba 100%); box-shadow:0 8px 24px rgba(31,111,235,0.25); text-align:left; color:#fff;">
+      <h3 style="margin:0 0 8px 0; line-height:1.3;">1. Retail Price Optimization — Regression</h3>
+      <p style="margin:0 0 8px 0; opacity:0.95;"><b>Description:</b> Model demand and price elasticity from sales data to recommend profit-maximizing prices across products and segments.</p>
+      <p style="margin:0 0 12px 0; opacity:0.95;"><b>Topics:</b> Regression, Price Elasticity, Feature Engineering, Regularization, Cross-Validation</p>
+      <div style="display:flex; gap:12px; flex-wrap:wrap;">
+        <a href="1.%20Retail%20Price%20Optimization%20-%20Regression/" style="background:rgba(255,255,255,0.18); color:#ffffff; padding:6px 12px; border-radius:10px; text-decoration:none; border:1px solid rgba(255,255,255,0.35);">Code</a>
+        <a href="1.%20Retail%20Price%20Optimization%20-%20Regression/Retail%20Price%20Optimization.ipynb" style="background:rgba(255,255,255,0.18); color:#ffffff; padding:6px 12px; border-radius:10px; text-decoration:none; border:1px solid rgba(255,255,255,0.35);">Notebook</a>
+        <a href="https://huggingface.co/spaces/etuncer/retail-price-optimization-regression" style="background:rgba(255,255,255,0.18); color:#ffffff; padding:6px 12px; border-radius:10px; text-decoration:none; border:1px solid rgba(255,255,255,0.35);">Live App</a>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
+...
+
+### Contact
+For questions or suggestions, please open an issue or reach out via GitHub.
 
 ---
 
-This README will be updated as each project is completed and added to the repository.
+This README will evolve as new projects are added.
