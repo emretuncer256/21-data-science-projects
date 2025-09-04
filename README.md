@@ -13,7 +13,7 @@ A curated collection of end‑to‑end data science projects spanning regression
    - `curl -sSL https://install.python-poetry.org | python3 -`
    - Ensure Poetry is on your PATH (restart shell or follow installer notes)
 2. Clone the repository
-   - `git clone https://github.com/etuncer/21-data-science-projects.git`
+   - `git clone https://github.com/emretuncer256/21-data-science-projects.git`
    - `cd 21-data-science-projects`
 3. Install shared dependencies at the repository root
    - `poetry install`
@@ -54,10 +54,23 @@ A curated collection of end‑to‑end data science projects spanning regression
   </div>
 </div>
 <br>
-...
+<div align="center">
+  <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+    <div style="width:340px; border:1px solid rgba(255,255,255,0.25); border-radius:16px; padding:16px; background:linear-gradient(135deg,#0ea5e9 0%,#10b981 50%,#f59e0b 100%); box-shadow:0 8px 24px rgba(14,165,233,0.25); text-align:left; color:#fff;">
+      <h3 style="margin:0 0 8px 0; line-height:1.3;">2. Car Price Prediction — Regression</h3>
+      <p style="margin:0 0 8px 0; opacity:0.95;"><b>Description:</b> Predict car prices from technical specs using a scikit-learn pipeline with preprocessing and one-hot encoding.</p>
+      <p style="margin:0 0 12px 0; opacity:0.95;"><b>Topics:</b> Regression, scikit-learn Pipeline, OneHotEncoder, Feature Engineering, Streamlit</p>
+      <div style="display:flex; gap:12px; flex-wrap:wrap;">
+        <a href="2.%20Car%20Price%20Prediction%20-%20Regression/" style="background:rgba(255,255,255,0.18); color:#ffffff; padding:6px 12px; border-radius:10px; text-decoration:none; border:1px solid rgba(255,255,255,0.35);">Code</a>
+        <a href="2.%20Car%20Price%20Prediction%20-%20Regression/Car%20Price%20Prediction.ipynb" style="background:rgba(255,255,255,0.18); color:#ffffff; padding:6px 12px; border-radius:10px; text-decoration:none; border:1px solid rgba(255,255,255,0.35);">Notebook</a>
+        <a href="https://huggingface.co/spaces/etuncer/car-price-prediction-regression" style="background:rgba(255,255,255,0.18); color:#ffffff; padding:6px 12px; border-radius:10px; text-decoration:none; border:1px solid rgba(255,255,255,0.35);">Live App</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 ### Contact
-For questions or suggestions, please open an issue or reach out via GitHub.
+For questions or suggestions, please open an issue or reach out my social accounts via GitHub.
 
 ---
 
