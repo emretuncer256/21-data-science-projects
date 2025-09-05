@@ -22,7 +22,6 @@ A curated collection of end‑to‑end data science projects spanning regression
 ### How to run
 -   **Notebooks**: open the `.ipynb` files directly, or launch Jupyter with Poetry from the repo root (works in subfolders too)
     - `poetry run jupyter lab`
-    - Optional kernel: `poetry run python -m ipykernel install --user --name ds-projects`
 -   **Streamlit apps**: from the specific project folder run `poetry run streamlit run app.py`
 -   **Model artefacts**: some projects include serialized models (e.g., `*.pkl`) for quick reuse
 
