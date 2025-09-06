@@ -14,7 +14,7 @@
     <text x="24" y="48" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="22" font-weight="600">1. Retail Price Optimization — Regression</text>
     <text x="24" y="84" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" opacity="0.95">Model demand and price elasticity from sales data to recommend</text>
     <text x="24" y="104" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" opacity="0.95">profit-maximizing prices across products and segments.</text>
-    <text x="24" y="136" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" opacity="0.95">Topics: Regression, Price Elasticity, Feature Engineering, Regularization, Cross-Validation</text>
+    <text x="24" y="136" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" opacity="0.95">Topics: Regression, Feature Engineering, Data Processing, Evaluation Metrics</text>
   </g>
 </svg>
 
