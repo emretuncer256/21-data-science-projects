@@ -1,7 +1,7 @@
 [project]
 name = "21-data-science-projects"
 version = "0.1.0"
-description = ""
+description = "A collection of 21 diverse data science projects covering regression, classification, NLP, computer vision, and more."
 authors = [
     {name = "Emre Tuncer",email = "emretuncer.developer@gmail.com"}
 ]
