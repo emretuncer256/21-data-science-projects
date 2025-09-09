@@ -1,0 +1,20 @@
+{
+  "max_sequence_length": 66,
+  "vocabulary_size": 15213,
+  "classes": [
+    "anger",
+    "fear",
+    "joy",
+    "love",
+    "sadness",
+    "surprise"
+  ],
+  "train_metrics": {
+    "loss": 0.020903801545500755,
+    "accuracy": 0.9936718940734863
+  },
+  "test_metrics": {
+    "loss": 0.4793521463871002,
+    "accuracy": 0.8865625262260437
+  }
+}
