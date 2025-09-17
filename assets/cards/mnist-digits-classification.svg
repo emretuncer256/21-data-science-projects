@@ -1,0 +1,21 @@
+<svg width="560" height="200" viewBox="0 0 560 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MNIST Digits Classification — Computer Vision">
+  <defs>
+    <linearGradient id="grad10" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#103783;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#9bafd9;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#432371;stop-opacity:1"/>
+    </linearGradient>
+    <filter id="shadow10" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="rgba(0,0,0,0.25)"/>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="560" height="200" rx="16" fill="url(#grad10)" filter="url(#shadow10)"/>
+  <g fill="#ffffff">
+    <text x="24" y="48" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="22" font-weight="600">10. MNIST Digits Classification — Computer Vision</text>
+    <text x="24" y="84" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" opacity="0.95">Recognize handwritten digits using classical ML on MNIST with</text>
+    <text x="24" y="104" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" opacity="0.95">normalization, model comparison, and an SVC baseline.</text>
+    <text x="24" y="136" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" opacity="0.95">Topics: Computer Vision, Classification, SVC, Evaluation, Streamlit</text>
+  </g>
+</svg>
+
+
