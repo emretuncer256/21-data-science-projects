@@ -229,6 +229,20 @@ A curated collection of end‑to‑end data science projects spanning regression
 </div>
 <hr>
 
+<div align="center">
+  <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+    <a href="15.%20Pfizer%20Vaccine%20Sentiment%20Analysis%20-%20NLP/">
+      <img src="assets/cards/pfizer-vaccine-sentiment-analysis.svg" alt="Pfizer Vaccine Sentiment Analysis — NLP" width="560" />
+    </a>
+    <div align="center" style="margin-top:8px;">
+      <a href="15.%20Pfizer%20Vaccine%20Sentiment%20Analysis%20-%20NLP/"><img alt="Code" src="https://img.shields.io/badge/Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="15.%20Pfizer%20Vaccine%20Sentiment%20Analysis%20-%20NLP/Pfizer%20Vaccine%20Sentiment%20Analysis.ipynb"><img alt="Notebook" src="https://img.shields.io/badge/Notebook-f37726?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+      <a href="https://huggingface.co/spaces/etuncer/sentiment-polarity-detector"><img alt="Live App" src="https://img.shields.io/badge/Live%20App-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+    </div>
+  </div>
+</div>
+<hr>
+
 ### Contact
 For questions or suggestions, please open an issue or reach out my social accounts via GitHub.
 
