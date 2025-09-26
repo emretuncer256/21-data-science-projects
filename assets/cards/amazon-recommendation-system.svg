@@ -1,0 +1,20 @@
+<svg width="560" height="200" viewBox="0 0 560 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Amazon Reviews — Recommendation Systems">
+  <defs>
+    <linearGradient id="grad17" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F9655B;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#EE821A;stop-opacity:1"/>
+    </linearGradient>
+    <filter id="shadow17" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="rgba(0,0,0,0.25)"/>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="560" height="200" rx="16" fill="url(#grad17)" filter="url(#shadow17)"/>
+  <g fill="#ffffff">
+    <text x="24" y="48" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="22" font-weight="600">17. Amazon Reviews — Recommendation Systems</text>
+    <text x="24" y="84" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" opacity="0.95">Item–item and user–user collaborative filtering on Amazon ratings.</text>
+    <text x="24" y="104" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" opacity="0.95">Sparse matrices, cosine KNN, and a simple Streamlit demo app.</text>
+    <text x="24" y="136" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" opacity="0.95">Topics: Recommender Systems, KNN, Sparse Matrices, Streamlit</text>
+  </g>
+</svg>
+
+
