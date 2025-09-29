@@ -249,7 +249,7 @@ A curated collection of end‑to‑end data science projects spanning regression
       <img src="assets/cards/book-recommendation-system.svg" alt="Book Recommendation System — Notebook Code" width="560" />
     </a>
     <div align="center" style="margin-top:8px;">
-      <a href="16.%20Book%20Recommendation%20-%20Recommendation%20Systems/notebook_code.py"><img alt="Code" src="https://img.shields.io/badge/Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="16.%20Book%20Recommendation%20-%20Recommendation%20Systems/"><img alt="Code" src="https://img.shields.io/badge/Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
       <a href="16.%20Book%20Recommendation%20-%20Recommendation%20Systems/Book%20Recommendation.ipynb"><img alt="Notebook" src="https://img.shields.io/badge/Notebook-f37726?style=for-the-badge&logo=jupyter&logoColor=white"></a>
       <a href="https://huggingface.co/spaces/etuncer/popular-book-recommendation"><img alt="Live App" src="https://img.shields.io/badge/Live%20App-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white"></a>
     </div>
@@ -263,7 +263,7 @@ A curated collection of end‑to‑end data science projects spanning regression
       <img src="assets/cards/amazon-recommendation-system.svg" alt="Amazon Reviews — Recommendation Systems" width="560" />
     </a>
     <div align="center" style="margin-top:8px;">
-      <a href="17.%20Amazon%20Reviews%20-%20Recommendation%20Systems/notebook_code.py"><img alt="Code" src="https://img.shields.io/badge/Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="17.%20Amazon%20Reviews%20-%20Recommendation%20Systems/"><img alt="Code" src="https://img.shields.io/badge/Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
       <a href="17.%20Amazon%20Reviews%20-%20Recommendation%20Systems/Amazon%20Reviews.ipynb"><img alt="Notebook" src="https://img.shields.io/badge/Notebook-f37726?style=for-the-badge&logo=jupyter&logoColor=white"></a>
       <a href="https://huggingface.co/spaces/etuncer/amazon-recommendation-system"><img alt="Live App" src="https://img.shields.io/badge/Live%20App-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white"></a>
     </div>
@@ -277,7 +277,7 @@ A curated collection of end‑to‑end data science projects spanning regression
       <img src="assets/cards/hotel-recommendation-system.svg" alt="Hotel Recommendation System — Recommendation Systems" width="560" />
     </a>
     <div align="center" style="margin-top:8px;">
-      <a href="18.%20Hotel%20-%20Recommendation%20Systems/notebook_code.py"><img alt="Code" src="https://img.shields.io/badge/Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="18.%20Hotel%20-%20Recommendation%20Systems/"><img alt="Code" src="https://img.shields.io/badge/Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
       <a href="18.%20Hotel%20-%20Recommendation%20Systems/Hotel%20Recommendation%20System.ipynb"><img alt="Notebook" src="https://img.shields.io/badge/Notebook-f37726?style=for-the-badge&logo=jupyter&logoColor=white"></a>
       <a href="https://huggingface.co/spaces/etuncer/hotel-recommendation-system"><img alt="Live App" src="https://img.shields.io/badge/Live%20App-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white"></a>
     </div>
