@@ -313,6 +313,20 @@ A curated collection of end‑to‑end data science projects spanning regression
 </div>
 <hr>
 
+<div align="center">
+  <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+    <a href="21.%20Stock%20Price%20Forecasting%20-%20Time%20Series/">
+      <img src="assets/cards/stock-price-forecasting.svg" alt="Stock Price Forecasting — Time Series" width="560" />
+    </a>
+    <div align="center" style="margin-top:8px;">
+      <a href="21.%20Stock%20Price%20Forecasting%20-%20Time%20Series/"><img alt="Code" src="https://img.shields.io/badge/Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="21.%20Stock%20Price%20Forecasting%20-%20Time%20Series/Stock%20Price%20Forecasting.ipynb"><img alt="Notebook" src="https://img.shields.io/badge/Notebook-f37726?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+      <a href="https://huggingface.co/spaces/etuncer/stock-price-forecasting"><img alt="Live App" src="https://img.shields.io/badge/Live%20App-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+    </div>
+  </div>
+</div>
+<hr>
+
 ### Contact
 For questions or suggestions, please open an issue or reach out my social accounts via GitHub.
 
